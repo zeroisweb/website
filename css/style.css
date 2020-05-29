@@ -117,7 +117,7 @@ h4 {
   font-family: Montserrat, sans-serif;
 }
 .navbar li a, .navbar .navbar-brand {
-  color: #fff !important;
+  color: #333 !important;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
   color: #08a7d9 !important;
