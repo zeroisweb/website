@@ -17,6 +17,7 @@ h4 {
   font-weight: 400;
   margin-bottom: 30px;
 }
+.wrap {width:1024px;}
 .jumbotron {
   background-color: #08a7d9;
   color: #fff;
@@ -160,6 +161,9 @@ footer .glyphicon {
     opacity: 1;
     -webkit-transform: translateY(0%);
   }
+}
+@media screen and (max-width: 1024px) {
+    .wrap {width:100%;}
 }
 @media screen and (max-width: 768px) {
   .col-sm-4 {
