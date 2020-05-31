@@ -93,12 +93,16 @@ h4 {
     background-color: #08a7d9;
 }
 
+.carousel-inner {
+    padding:30px 0;
+}
+
 .item h4 {
     font-size: 19px;
     line-height: 1.375em;
     font-weight: 400;
     font-style: italic;
-    margin:70px 0 20px 0;
+    margin-bottom:20px;
 }
 
 .item p {
