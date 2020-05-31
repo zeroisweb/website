@@ -47,7 +47,7 @@ h4 {
   height: 100%;
   margin-bottom: 10px;
 }
-.img-box {width:100%; padding-bottom:70%; background-color:#dad3b2; color:#68a882;}
+.img-box {display:block; width:100%; padding-bottom:70%; background-color:#dad3b2; color:#68a882;}
 .carousel-control.right, .carousel-control.left {
   background-image: none;
   color: #08a7d9;
