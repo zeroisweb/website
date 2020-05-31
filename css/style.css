@@ -17,7 +17,7 @@ h4 {
   font-weight: 400;
   margin-bottom: 30px;
 }
-.wrap {width:1024px;}
+.wrap {width:1024px; margin:0 auto;}
 .jumbotron {
   background-color: #08a7d9;
   color: #fff;
